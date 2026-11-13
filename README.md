@@ -64,4 +64,4 @@ After building, you can use **Inno Setup** with the included `.iss` script to cr
 
 ## 📄 License (الرخصة)
 This software is developed by Eng. Fares Kuliab. All rights reserved. 
-For contact: 772626216 - 738689628 (Yemen).
+For contact: +967 772626216 - +967 738689628 (Yemen).
